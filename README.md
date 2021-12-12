@@ -21,13 +21,13 @@ In this module I used PySpark within Google Colaboratory to retrieve data from A
 
 
 Here are the 4 tables from pgAdmin
-![Any_title](https://raw.githubusercontent.com/mdwilliams11/images/Amazon_Vine_Analysis/main/image_name.png)
+![Any_title](https://raw.githubusercontent.com/mdwilliams11/images/Amazon_Vine_Analysis/main/customers.png)
 
-![Any_title](https://raw.githubusercontent.com/mdwilliams11/images/Amazon_Vine_Analysis/main/image_name.png)
+![Any_title](https://raw.githubusercontent.com/mdwilliams11/images/Amazon_Vine_Analysis/main/products.png)
 
-![Any_title](https://raw.githubusercontent.com/mdwilliams11/images/Amazon_Vine_Analysis/main/image_name.png)
+![Any_title](https://raw.githubusercontent.com/mdwilliams11/images/Amazon_Vine_Analysis/main/review_id.png)
 
-![Any_title](https://raw.githubusercontent.com/mdwilliams11/images/Amazon_Vine_Analysis/main/image_name.png)
+![Any_title](https://raw.githubusercontent.com/mdwilliams11/images/Amazon_Vine_Analysis/main/vine.png)
 
 
 ## Summary
